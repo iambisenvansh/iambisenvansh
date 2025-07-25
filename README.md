@@ -37,7 +37,7 @@
 ## 📫 Connect with Me
 
 - [GitHub Profile](https://github.com/iambisenvansh)
-- 
+- [Linkedin Profile] (https://linkedin.com/in/vansh-bisen-80914b287)
 - 📧 iambisenvansh@gmail.com
 
 ---
